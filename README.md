@@ -1,2 +1,2 @@
-day2 assignment
+day 3 assignment
 # pravalika57
